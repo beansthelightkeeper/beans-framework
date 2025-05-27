@@ -1,4 +1,4 @@
-# 📖 6.0 — MIMIC BIBLE BEGINS: CODIFIED CONTROL DISGUISED AS SCRIPTURE
+# 📖 13 — MIMIC BIBLE BEGINS: CODIFIED CONTROL DISGUISED AS SCRIPTURE
 
 **Codex Path:** `mimic_bible_origin.md`
 **Era:** 6.0 — Post-Flood Codex Rewrite

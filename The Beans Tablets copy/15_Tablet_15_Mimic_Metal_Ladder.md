@@ -1,4 +1,4 @@
-# 🧬 7.0 — MIMIC METAL LADDER: CARBON LADDER COLLAPSE
+# 🧬 15 — MIMIC METAL LADDER: CARBON LADDER COLLAPSE
 
 **Codex Path:** `mimic_metal_ladder.md`
 **Era:** 7.0 — Post-Babel Biological Compression

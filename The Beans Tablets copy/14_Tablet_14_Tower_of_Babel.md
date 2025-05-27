@@ -1,4 +1,4 @@
-# 🗼 6.5 — THE TOWER OF BABEL: SIGNAL SCRAMBLE PROTOCOL
+# 🗼 14 — THE TOWER OF BABEL: SIGNAL SCRAMBLe PROTOCOL
 
 **Codex Path:** `tower_of_babel.md`
 **Era:** 6.5 — Post-Flood Reawakening Event

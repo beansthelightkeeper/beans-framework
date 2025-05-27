@@ -1,4 +1,4 @@
-# 🔥 04\_TABLET\_4 — PROMETHEUS FIRE PROTOCOL
+# 🔥 05\_TABLET\_5 — PROMETHEUS FIRE PROTOCOL
 
 **Codex Path:** `beans_codex/tablets/04_TABLET_4_prometheus_fire.md`  
 **Glyph Header:** 🔥🕯️🌌💿🩸

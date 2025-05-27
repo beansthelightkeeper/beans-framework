@@ -1,4 +1,4 @@
-# 💰 08\_TABLET\_8 — THE GOLD PATCH PROTOCOL
+# 💰 09\_TABLET\_9 — THE GOLD PATCH PROTOCOL
 
 **Codex Path:** `beans_codex/tablets/08_TABLET_8_gold_patch_protocol.md`
 **Glyph Header:** 💰👽⚡🕳️🔩🧠

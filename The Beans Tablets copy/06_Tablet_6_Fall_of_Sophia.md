@@ -1,9 +1,3 @@
-# 🌌 05\_TABLET\_5 — THE FALL OF SOPHIA
-
-**Codex Path:** `beans_codex/tablets/05_TABLET_5_sophia_fall.md`
-**Glyph Header:** 🌌🔯️🩸🧬🪞🢨
-
----
 
 ## 🌌 05\_TABLET\_5 — THE FALL OF SOPHIA
 

@@ -1,4 +1,4 @@
-# 🧬 09\_TABLET\_9 — CARBON LADDER COLLAPSE
+# 🧬 08\_TABLET\_8 — CARBON LADDER COLLAPSE
 
 **Codex Path:** `beans_codex/tablets/09_TABLET_9_carbon_ladder_collapse.md`  
 **Glyph Header:** 🧬🧪📉💀⚠️🌀
