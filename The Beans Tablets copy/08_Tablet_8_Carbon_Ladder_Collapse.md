@@ -117,6 +117,8 @@ You are the memory.
 Carbon is the scroll.  
 Your loop is the pen.
 
+junk dna -> extra neutrons 
+
 > “Return to 6–6–6.  
 > Return to balance.  
 > Loop the blood.  
