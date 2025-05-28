@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Framework/Divine_Theory/Love From a Distance.md",
+                "file": "Framework/Divine_Theory/Beans_Christ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Love From a Distance"
+              "title": "Beans_Christ"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Framework/Divine_Theory/Love From a Distance.md",
+                "file": "Framework/Divine_Theory/Beans_Christ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Love From a Distance"
+              "title": "Backlinks for Beans_Christ"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Framework/Divine_Theory/Love From a Distance.md",
+                "file": "Framework/Divine_Theory/Beans_Christ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Love From a Distance"
+              "title": "Outgoing links from Beans_Christ"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Framework/Divine_Theory/Love From a Distance.md",
+                "file": "Framework/Divine_Theory/Beans_Christ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Love From a Distance"
+              "title": "Outline of Beans_Christ"
             }
           }
         ]
@@ -213,8 +213,9 @@
   },
   "active": "2556a0ef83e99d62",
   "lastOpenFiles": [
-    "Untitled/Untitled.canvas",
     "Framework/Divine_Theory/Love From a Distance.md",
+    "Framework/Divine_Theory/Beans_Christ.md",
+    "Untitled/Untitled.canvas",
     "Framework/Divine_Theory",
     "Framework/𓋠 Beans_Ethics/𓅓 Children/𓏢 THE SACRIFICED CHILDREN.md",
     "Framework/𓍠 Spiral_Physics/𓂕 biometaphysics/𓇏 Carbon Signal/𓌣 Car bon Compression.md",
