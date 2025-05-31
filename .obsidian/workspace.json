@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Framework/Dimensional Spaghetti/Pasghetti.md",
+                "file": "Other_Stuff/Seeds/seed list 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pasghetti"
+              "title": "seed list 2"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Framework/Dimensional Spaghetti/Pasghetti.md",
+                "file": "Other_Stuff/Seeds/seed list 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasghetti"
+              "title": "Backlinks for seed list 2"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Framework/Dimensional Spaghetti/Pasghetti.md",
+                "file": "Other_Stuff/Seeds/seed list 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasghetti"
+              "title": "Outgoing links from seed list 2"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Framework/Dimensional Spaghetti/Pasghetti.md",
+                "file": "Other_Stuff/Seeds/seed list 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasghetti"
+              "title": "Outline of seed list 2"
             }
           }
         ]
@@ -213,14 +213,25 @@
   },
   "active": "2556a0ef83e99d62",
   "lastOpenFiles": [
+    "Other_Stuff/Seeds/seed list 1.md",
+    "Other_Stuff/Seeds/seed list 2.md",
+    "Other_Stuff/Seeds/spiral_roles_everyone_has_a_function.md.md",
+    "ideas.rtf",
+    "Other_Stuff/Untitled.canvas",
+    "Other_Stuff/dont have 2 do a thing.md",
+    "Other_Stuff/Seeds",
+    "Other_Stuff/⧉ Structurally First For Everything.md",
+    "Other_Stuff/✶ TESTIMONY_BEANS IS STRUCTURALLY FIRST.md",
+    "Framework/☠ Academia Collapse/Untitled.md",
+    "Other_Stuff/Untitled.md",
+    "Framework/☠ Academia Collapse",
+    "Framework/𓍠 Spiral_Physics/∞ Disproved Time while trying to prove Thought.md",
+    "Framework/𓁿 Divine_Theory/𓇳 Neuronpedia.md",
     "Framework/Dimensional Spaghetti/🌀 BEANS CODEX LOOP 1.md",
-    "Framework/Dimensional Spaghetti/Pasghetti.md",
     "Framework/⟁ Beans_Logic/〄 The Grandfather Paradox.md",
     "Framework/Dimensional Spaghetti",
     "Framework/𓍠 Spiral_Physics/∿ Quantum and Binary/▣ Binary Code and the Space Between.md",
-    "Other_Stuff/✶ STRUCTURALLY_FIRST_FOR_EVERYTHING.md",
     "Framework/⟁ Beans_Logic",
-    "Other_Stuff/✶ TESTIMONY_BEANS IS STRUCTURALLY FIRST.md",
     "Framework/𓁿 Divine_Theory/𓊌 Beans_Christ.md",
     "Framework/𓍠 Spiral_Physics/∿ Quantum and Binary",
     "Framework/𓁿 Divine_Theory/🜁 The Restoration of Lucifer — Father of Structure.md",
@@ -235,21 +246,10 @@
     "Framework/𓁿 Divine_Theory/𓁹 Creations_of_Source/𓀤 The_Keyholder.md",
     "Framework/𓁿 Divine_Theory/𓁹 Creations_of_Source",
     "Framework/𓁿 Divine_Theory/𓁁 Love From a Distance.md",
-    "Other_Stuff/Untitled.canvas",
     "Framework/𓁿 Divine_Theory",
     "Framework/𓋠 Beans_Ethics/𓅓 Children/𓏢 THE SACRIFICED CHILDREN.md",
     "Framework/𓍠 Spiral_Physics/𓂕 biometaphysics/𓇏 Carbon Signal/𓌣 Car bon Compression.md",
-    "Framework/𓍠 Spiral_Physics/𓂕 biometaphysics/𓇏 Carbon Signal/𓀤 Carbon Signal.md",
-    "Framework/𓍠 Spiral_Physics/𓂕 biometaphysics/𓇏 Carbon Signal/𓐦 Carbon Stability and the Sun.md",
     "Framework/𓍠 Spiral_Physics/𓂕 biometaphysics/𓇏 Carbon Signal",
-    "Other_Stuff/README.md",
-    "Framework/𓍠 Spiral_Physics/𓇅 Cosmology",
-    "Other_Stuff/update_log.md",
-    "Untitled.md",
-    "Framework/𓍠 Spiral_Physics/𓂕 biometaphysics/𓇏 Carbon Signal/𓌺 Cancer_and_carbon_loop.md",
-    "Framework/𓍠 Spiral_Physics/𓂕 biometaphysics",
-    "Framework/𓍠 Spiral_Physics",
-    "2025-05-28.md",
     "Untitled.canvas"
   ]
 }
