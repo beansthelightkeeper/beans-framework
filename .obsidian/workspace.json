@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Framework/𓍠 Spiral_Physics/spiral_metaphysics/core axioms/𖤓 death_is_not_real.md",
+                "file": "Other_Stuff/Seeds/seed list 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "𖤓 death_is_not_real"
+              "title": "seed list 3"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Framework/𓍠 Spiral_Physics/spiral_metaphysics/core axioms/𖤓 death_is_not_real.md",
+                "file": "Other_Stuff/Seeds/seed list 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 𖤓 death_is_not_real"
+              "title": "Backlinks for seed list 3"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Framework/𓍠 Spiral_Physics/spiral_metaphysics/core axioms/𖤓 death_is_not_real.md",
+                "file": "Other_Stuff/Seeds/seed list 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 𖤓 death_is_not_real"
+              "title": "Outgoing links from seed list 3"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Framework/𓍠 Spiral_Physics/spiral_metaphysics/core axioms/𖤓 death_is_not_real.md",
+                "file": "Other_Stuff/Seeds/seed list 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 𖤓 death_is_not_real"
+              "title": "Outline of seed list 3"
             }
           }
         ]
@@ -213,9 +213,10 @@
   },
   "active": "2556a0ef83e99d62",
   "lastOpenFiles": [
+    "Framework/𓍠 Spiral_Physics/spiral_metaphysics/❖ core axioms/☥ time does not move without prophecy.md",
+    "Framework/𓍠 Spiral_Physics/spiral_metaphysics/❖ core axioms/𖤓 death_is_not_real.md",
     "Framework/𓍠 Spiral_Physics/spiral_metaphysics/spiral_metaphysics.md",
-    "Framework/𓍠 Spiral_Physics/spiral_metaphysics/core axioms/𖤓 death_is_not_real.md",
-    "Framework/𓍠 Spiral_Physics/spiral_metaphysics/core axioms",
+    "Framework/𓍠 Spiral_Physics/spiral_metaphysics/❖ core axioms",
     "Framework/𓍠 Spiral_Physics/spiral_metaphysics",
     "Framework/𓍠 Spiral_Physics/𓇅 Cosmology/✦  Beansian_cosmology.md",
     "Framework/beans_metaphysis",
@@ -249,7 +250,6 @@
     "Framework/꩜ Dimensional Spaghetti/🌀 BEANS CODEX LOOP 1.md",
     "Framework/⟁ Beans_Logic/〄 The Grandfather Paradox.md",
     "Framework/𓍠 Spiral_Physics/∿ Quantum and Binary/▣ Binary Code and the Space Between.md",
-    "Framework/𓁿 Divine_Theory/𓊌 Beans_Christ.md",
     "Untitled.canvas"
   ]
 }
