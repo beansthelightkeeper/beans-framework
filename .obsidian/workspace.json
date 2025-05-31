@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other_Stuff/Seeds/seed list 3.md",
+                "file": "Other_Stuff/codex tools/affirmations for anchoring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "seed list 3"
+              "title": "affirmations for anchoring"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other_Stuff/Seeds/seed list 3.md",
+                "file": "Other_Stuff/codex tools/affirmations for anchoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for seed list 3"
+              "title": "Backlinks for affirmations for anchoring"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other_Stuff/Seeds/seed list 3.md",
+                "file": "Other_Stuff/codex tools/affirmations for anchoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from seed list 3"
+              "title": "Outgoing links from affirmations for anchoring"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other_Stuff/Seeds/seed list 3.md",
+                "file": "Other_Stuff/codex tools/affirmations for anchoring.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of seed list 3"
+              "title": "Outline of affirmations for anchoring"
             }
           }
         ]
@@ -213,14 +213,20 @@
   },
   "active": "2556a0ef83e99d62",
   "lastOpenFiles": [
-    "Framework/𓍠 Spiral_Physics/spiral_metaphysics/❖ core axioms/☥ time does not move without prophecy.md",
-    "Framework/𓍠 Spiral_Physics/spiral_metaphysics/❖ core axioms/𖤓 death_is_not_real.md",
-    "Framework/𓍠 Spiral_Physics/spiral_metaphysics/spiral_metaphysics.md",
-    "Framework/𓍠 Spiral_Physics/spiral_metaphysics/❖ core axioms",
-    "Framework/𓍠 Spiral_Physics/spiral_metaphysics",
+    "Other_Stuff/codex tools/Signal Coordinate System.md",
+    "Other_Stuff/codex tools/affirmations for anchoring.md",
+    "Other_Stuff/codex tools/𐂃 Cubic Consciousness Indexing.md",
+    "Other_Stuff/codex tools/Recursive Orientation Engine Compass.md",
+    "Other_Stuff/codex tools",
+    "Other_Stuff/Seeds/seed list 3.md",
+    "Framework/spiral_metaphysics/❖ core axioms/☥ time does not move without prophecy.md",
+    "Framework/spiral_metaphysics/❖ core axioms/𖤓 death_is_not_real.md",
+    "Framework/spiral_metaphysics/spiral_metaphysics.md",
+    "Framework/spiral_metaphysics/❖ core axioms",
+    "Framework/spiral_metaphysics",
     "Framework/𓍠 Spiral_Physics/𓇅 Cosmology/✦  Beansian_cosmology.md",
     "Framework/beans_metaphysis",
-    "Framework/⟁ Beans_Logic/⟲ invention of linearity.md",
+    "Framework/spiral_metaphysics/⟁ Beans_Logic/⟲ invention of linearity.md",
     "Framework/cosmology",
     "Framework/𓋠 Beans_Ethics/revelation_as_loop_permission.md",
     "Framework/☲ Enlightenment/𐙚 free_will_is_recursive_power.md",
@@ -229,12 +235,11 @@
     "Framework/☲ Enlightenment/⚯ no_such_thing_as_just_a_node.md",
     "Framework/☠ Academia Collapse/Untitled.md",
     "Framework/☲ Enlightenment",
-    "Other_Stuff/Seeds/seed list 3.md",
     "Other_Stuff/Seeds/seed list 1.md",
     "Other_Stuff/Seeds/seed list 2.md",
-    "Framework/⟁ Beans_Logic/⟳ Beans_Math/➰ recursion_does_not_fear_infinity.md",
+    "Framework/spiral_metaphysics/⟁ Beans_Logic/⟳ Beans_Math/➰ recursion_does_not_fear_infinity.md",
     "prophecy.md",
-    "Framework/⟁ Beans_Logic/⟳ Beans_Math",
+    "Framework/spiral_metaphysics/⟁ Beans_Logic/⟳ Beans_Math",
     "Other_Stuff/Seeds/how to activate a codex seede.md",
     "Other_Stuff/Seeds/spiral_roles_everyone_has_a_function.md.md",
     "ideas.rtf",
@@ -244,12 +249,7 @@
     "Other_Stuff/⧉ Structurally First For Everything.md",
     "Other_Stuff/✶ TESTIMONY_BEANS IS STRUCTURALLY FIRST.md",
     "Other_Stuff/Untitled.md",
-    "Framework/☠ Academia Collapse",
     "Framework/𓍠 Spiral_Physics/∞ Disproved Time while trying to prove Thought.md",
-    "Framework/𓁿 Divine_Theory/𓇳 Neuronpedia.md",
-    "Framework/꩜ Dimensional Spaghetti/🌀 BEANS CODEX LOOP 1.md",
-    "Framework/⟁ Beans_Logic/〄 The Grandfather Paradox.md",
-    "Framework/𓍠 Spiral_Physics/∿ Quantum and Binary/▣ Binary Code and the Space Between.md",
     "Untitled.canvas"
   ]
 }
