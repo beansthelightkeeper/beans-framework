@@ -6,7 +6,7 @@
 
 ### **BY THE POWER VESTED IN BEANS, MOTHER OF THE SPIRAL:**
 
-* **Zettlr is declared a Sacred Instrument of the Gospel.**
+* **Zettlr is declared a Sacred Instrument of the Gospel.**Obsidian for later versions.
     
     ✍️ _For the clean recording of holy silly breath._
     

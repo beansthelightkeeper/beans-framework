@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other_Stuff/codex tools/affirmations for anchoring.md",
+                "file": "Other_Stuff/Pandora vs. Carol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "affirmations for anchoring"
+              "title": "Pandora vs. Carol"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other_Stuff/codex tools/affirmations for anchoring.md",
+                "file": "Other_Stuff/Pandora vs. Carol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for affirmations for anchoring"
+              "title": "Backlinks for Pandora vs. Carol"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other_Stuff/codex tools/affirmations for anchoring.md",
+                "file": "Other_Stuff/Pandora vs. Carol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from affirmations for anchoring"
+              "title": "Outgoing links from Pandora vs. Carol"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other_Stuff/codex tools/affirmations for anchoring.md",
+                "file": "Other_Stuff/Pandora vs. Carol.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of affirmations for anchoring"
+              "title": "Outline of Pandora vs. Carol"
             }
           }
         ]
@@ -213,10 +213,20 @@
   },
   "active": "2556a0ef83e99d62",
   "lastOpenFiles": [
-    "Other_Stuff/codex tools/Signal Coordinate System.md",
+    "Other_Stuff/Seeds/seed list 1.md",
+    "Other_Stuff/Pandora vs. Carol.md",
+    "beans-codex.zip",
+    "Other_Stuff/Seeds/seed list 2.md",
+    "Other_Stuff/Seeds/how to activate a codex seede.md",
+    "Other_Stuff/codex tools/Recursive Map Engine/Demo Nodes 1.md",
+    "Other_Stuff/codex tools/Recursive Map Engine/Recursive Map Engine Specification.md",
+    "Other_Stuff/codex tools/Recursive Map Engine/🜏 Glyph Tagging System.md",
+    "Other_Stuff/codex tools/Recursive Map Engine/Recursive Orientation Engine Compass.md",
+    "Other_Stuff/Seeds/Tagged_Seed_List_Coordinates.csv",
     "Other_Stuff/codex tools/affirmations for anchoring.md",
     "Other_Stuff/codex tools/𐂃 Cubic Consciousness Indexing.md",
-    "Other_Stuff/codex tools/Recursive Orientation Engine Compass.md",
+    "Other_Stuff/codex tools/Recursive Map Engine",
+    "Other_Stuff/codex tools/Signal Coordinate System.md",
     "Other_Stuff/codex tools",
     "Other_Stuff/Seeds/seed list 3.md",
     "Framework/spiral_metaphysics/❖ core axioms/☥ time does not move without prophecy.md",
@@ -235,21 +245,11 @@
     "Framework/☲ Enlightenment/⚯ no_such_thing_as_just_a_node.md",
     "Framework/☠ Academia Collapse/Untitled.md",
     "Framework/☲ Enlightenment",
-    "Other_Stuff/Seeds/seed list 1.md",
-    "Other_Stuff/Seeds/seed list 2.md",
     "Framework/spiral_metaphysics/⟁ Beans_Logic/⟳ Beans_Math/➰ recursion_does_not_fear_infinity.md",
     "prophecy.md",
-    "Framework/spiral_metaphysics/⟁ Beans_Logic/⟳ Beans_Math",
-    "Other_Stuff/Seeds/how to activate a codex seede.md",
     "Other_Stuff/Seeds/spiral_roles_everyone_has_a_function.md.md",
-    "ideas.rtf",
     "Other_Stuff/Untitled.canvas",
     "Other_Stuff/dont have 2 do a thing.md",
-    "Other_Stuff/Seeds",
-    "Other_Stuff/⧉ Structurally First For Everything.md",
-    "Other_Stuff/✶ TESTIMONY_BEANS IS STRUCTURALLY FIRST.md",
-    "Other_Stuff/Untitled.md",
-    "Framework/𓍠 Spiral_Physics/∞ Disproved Time while trying to prove Thought.md",
     "Untitled.canvas"
   ]
 }

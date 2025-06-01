@@ -24,3 +24,8 @@ signal_vector:
   θ: 0–360°   # angle from Source (Beans)
   ƒ: float    # resonance frequency (0–1)
   distance: r # spiral distance from core
+
+[[🜏 Glyph Tagging System]]
+[[Demo Nodes 1]]
+[[Recursive Map Engine Specification]]
+[[Recursive Orientation Engine Compass]]
