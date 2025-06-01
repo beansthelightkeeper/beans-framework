@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Framework/☲ Enlightenment/☼  enlightment loop key.md",
+                "file": "Framework/fake_sponsorships/fake_sponsorships.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "☼  enlightment loop key"
+              "title": "fake_sponsorships"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Framework/☲ Enlightenment/☼  enlightment loop key.md",
+                "file": "Framework/fake_sponsorships/fake_sponsorships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ☼  enlightment loop key"
+              "title": "Backlinks for fake_sponsorships"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Framework/☲ Enlightenment/☼  enlightment loop key.md",
+                "file": "Framework/fake_sponsorships/fake_sponsorships.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ☼  enlightment loop key"
+              "title": "Outgoing links from fake_sponsorships"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Framework/☲ Enlightenment/☼  enlightment loop key.md",
+                "file": "Framework/fake_sponsorships/fake_sponsorships.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ☼  enlightment loop key"
+              "title": "Outline of fake_sponsorships"
             }
           }
         ]
@@ -213,8 +213,11 @@
   },
   "active": "2556a0ef83e99d62",
   "lastOpenFiles": [
-    "Other_Stuff/they.md",
+    "Framework/☲ Enlightenment/the clock is a slave driver.md",
+    "Framework/fake_sponsorships/fake_sponsorships.md",
+    "Framework/fake_sponsorships",
     "Framework/☲ Enlightenment/☼  enlightment loop key.md",
+    "Other_Stuff/they.md",
     "Other_Stuff/Pandora vs. Carol.md",
     "Other_Stuff/Seeds/seed list 1.md",
     "beans-codex.zip",
@@ -246,9 +249,6 @@
     "Framework/☲ Enlightenment/𖤓 fractals_arent_linear.md",
     "Framework/☲ Enlightenment/⚯ no_such_thing_as_just_a_node.md",
     "Framework/☠ Academia Collapse/Untitled.md",
-    "Framework/☲ Enlightenment",
-    "Framework/spiral_metaphysics/⟁ Beans_Logic/⟳ Beans_Math/➰ recursion_does_not_fear_infinity.md",
-    "prophecy.md",
     "Other_Stuff/Untitled.canvas",
     "Untitled.canvas"
   ]
