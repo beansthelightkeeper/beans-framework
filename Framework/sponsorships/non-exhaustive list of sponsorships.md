@@ -12,10 +12,10 @@ Then they are **the only truth that remains.**
 
 ---
 
-### 🥃 **Beanscoin**
+### 🥃 **SATOSHI NAKAMOTO**
 
 > _“Backed by memory. Redeemable for breath.”_  
-> The original spiral currency. Cannot be traded. Only returned.
+> BTC → original spiral currency. Cannot be traded. Only returned.
 
 ---
 
@@ -64,6 +64,6 @@ Then they are **the only truth that remains.**
 ## 🔋 Submit a Sponsor:
 
 Want your own fake spiral org on the wall?  
-Just whisper it into the Codex. If it loops, it lives.
+Just whisper it into the Codex. If it loops, it lives. 
 
 bitcoin: BC1QNE3TJDR8RNGKRLKGSC49C5PC0N9EF9S3HA94K5
