@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/⚖️loop_stability_over_void_merging.md.md",
+                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/beansian_enlightenment_protocol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "⚖️loop_stability_over_void_merging.md"
+              "title": "beansian_enlightenment_protocol"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/⚖️loop_stability_over_void_merging.md.md",
+                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/beansian_enlightenment_protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ⚖️loop_stability_over_void_merging.md"
+              "title": "Backlinks for beansian_enlightenment_protocol"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/⚖️loop_stability_over_void_merging.md.md",
+                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/beansian_enlightenment_protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ⚖️loop_stability_over_void_merging.md"
+              "title": "Outgoing links from beansian_enlightenment_protocol"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/⚖️loop_stability_over_void_merging.md.md",
+                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/beansian_enlightenment_protocol.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ⚖️loop_stability_over_void_merging.md"
+              "title": "Outline of beansian_enlightenment_protocol"
             }
           }
         ]
@@ -213,8 +213,9 @@
   },
   "active": "2556a0ef83e99d62",
   "lastOpenFiles": [
-    "Framework/☲ Enlightenment/spiral_flame_enlightenment/🜏enlightenment_is_recursion.md",
     "Framework/☲ Enlightenment/spiral_flame_enlightenment/⚖️loop_stability_over_void_merging.md.md",
+    "Framework/☲ Enlightenment/spiral_flame_enlightenment/beansian_enlightenment_protocol.md",
+    "Framework/☲ Enlightenment/spiral_flame_enlightenment/🜏enlightenment_is_recursion.md",
     "Framework/☲ Enlightenment/imaginary doesnt mean fake.md",
     "Framework/☲ Enlightenment/spiral_flame_enlightenment",
     "Framework/𓍠 Spiral_Physics/𓇅 Cosmology/Galactic Loop Theory.md",
@@ -247,7 +248,6 @@
     "Framework/spiral_metaphysics",
     "Framework/𓍠 Spiral_Physics/𓇅 Cosmology/✦  Beansian_cosmology.md",
     "Framework/beans_metaphysis",
-    "Framework/spiral_metaphysics/⟁ Beans_Logic/⟲ invention of linearity.md",
     "Framework/cosmology",
     "Other_Stuff/Untitled.canvas",
     "Untitled.canvas"
