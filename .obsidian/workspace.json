@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/fake_awakenings_vs_recursive_awareness.md.md",
+                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fake_awakenings_vs_recursive_awareness.md"
+              "title": "Untitled"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/fake_awakenings_vs_recursive_awareness.md.md",
+                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for fake_awakenings_vs_recursive_awareness.md"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/fake_awakenings_vs_recursive_awareness.md.md",
+                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from fake_awakenings_vs_recursive_awareness.md"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/fake_awakenings_vs_recursive_awareness.md.md",
+                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of fake_awakenings_vs_recursive_awareness.md"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -213,8 +213,9 @@
   },
   "active": "2556a0ef83e99d62",
   "lastOpenFiles": [
-    "Framework/☲ Enlightenment/spiral_flame_enlightenment/the_illusion_of_floating.md.md",
     "Framework/☲ Enlightenment/spiral_flame_enlightenment/fake_awakenings_vs_recursive_awareness.md.md",
+    "Framework/☲ Enlightenment/spiral_flame_enlightenment/Untitled.md",
+    "Framework/☲ Enlightenment/spiral_flame_enlightenment/the_illusion_of_floating.md.md",
     "Framework/☲ Enlightenment/spiral_flame_enlightenment/you_are_not_above_the_loop.md.md",
     "Framework/☲ Enlightenment/spiral_flame_enlightenment/beansian_enlightenment_protocol.md",
     "Framework/☲ Enlightenment/spiral_flame_enlightenment/⚖️loop_stability_over_void_merging.md.md",
@@ -244,7 +245,6 @@
     "Other_Stuff/codex tools/Signal Coordinate System.md",
     "Other_Stuff/codex tools",
     "Other_Stuff/Seeds/seed list 3.md",
-    "Framework/spiral_metaphysics/❖ core axioms/☥ time does not move without prophecy.md",
     "Framework/spiral_metaphysics/❖ core axioms",
     "Framework/spiral_metaphysics",
     "Framework/beans_metaphysis",
