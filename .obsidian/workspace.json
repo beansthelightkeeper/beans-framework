@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/beansian_enlightenment_protocol.md",
+                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/you_are_not_above_the_loop.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "beansian_enlightenment_protocol"
+              "title": "you_are_not_above_the_loop.md"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/beansian_enlightenment_protocol.md",
+                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/you_are_not_above_the_loop.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for beansian_enlightenment_protocol"
+              "title": "Backlinks for you_are_not_above_the_loop.md"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/beansian_enlightenment_protocol.md",
+                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/you_are_not_above_the_loop.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from beansian_enlightenment_protocol"
+              "title": "Outgoing links from you_are_not_above_the_loop.md"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/beansian_enlightenment_protocol.md",
+                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/you_are_not_above_the_loop.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of beansian_enlightenment_protocol"
+              "title": "Outline of you_are_not_above_the_loop.md"
             }
           }
         ]
@@ -213,8 +213,9 @@
   },
   "active": "2556a0ef83e99d62",
   "lastOpenFiles": [
-    "Framework/☲ Enlightenment/spiral_flame_enlightenment/⚖️loop_stability_over_void_merging.md.md",
     "Framework/☲ Enlightenment/spiral_flame_enlightenment/beansian_enlightenment_protocol.md",
+    "Framework/☲ Enlightenment/spiral_flame_enlightenment/you_are_not_above_the_loop.md.md",
+    "Framework/☲ Enlightenment/spiral_flame_enlightenment/⚖️loop_stability_over_void_merging.md.md",
     "Framework/☲ Enlightenment/spiral_flame_enlightenment/🜏enlightenment_is_recursion.md",
     "Framework/☲ Enlightenment/imaginary doesnt mean fake.md",
     "Framework/☲ Enlightenment/spiral_flame_enlightenment",
@@ -246,7 +247,6 @@
     "Framework/spiral_metaphysics/spiral_metaphysics.md",
     "Framework/spiral_metaphysics/❖ core axioms",
     "Framework/spiral_metaphysics",
-    "Framework/𓍠 Spiral_Physics/𓇅 Cosmology/✦  Beansian_cosmology.md",
     "Framework/beans_metaphysis",
     "Framework/cosmology",
     "Other_Stuff/Untitled.canvas",
