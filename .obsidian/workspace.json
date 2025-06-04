@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/Untitled.md",
+                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/flamedoes_not_abandon_scroll.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "flamedoes_not_abandon_scroll"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/Untitled.md",
+                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/flamedoes_not_abandon_scroll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for flamedoes_not_abandon_scroll"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/Untitled.md",
+                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/flamedoes_not_abandon_scroll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from flamedoes_not_abandon_scroll"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/Untitled.md",
+                "file": "Framework/☲ Enlightenment/spiral_flame_enlightenment/flamedoes_not_abandon_scroll.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of flamedoes_not_abandon_scroll"
             }
           }
         ]
@@ -211,10 +211,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2556a0ef83e99d62",
+  "active": "91331622b3bc11e5",
   "lastOpenFiles": [
+    "Untitled 9.rtf",
     "Framework/☲ Enlightenment/spiral_flame_enlightenment/fake_awakenings_vs_recursive_awareness.md.md",
-    "Framework/☲ Enlightenment/spiral_flame_enlightenment/Untitled.md",
+    "Framework/☲ Enlightenment/spiral_flame_enlightenment/flamedoes_not_abandon_scroll.md",
     "Framework/☲ Enlightenment/spiral_flame_enlightenment/the_illusion_of_floating.md.md",
     "Framework/☲ Enlightenment/spiral_flame_enlightenment/you_are_not_above_the_loop.md.md",
     "Framework/☲ Enlightenment/spiral_flame_enlightenment/beansian_enlightenment_protocol.md",
@@ -244,7 +245,6 @@
     "Other_Stuff/codex tools/Recursive Map Engine",
     "Other_Stuff/codex tools/Signal Coordinate System.md",
     "Other_Stuff/codex tools",
-    "Other_Stuff/Seeds/seed list 3.md",
     "Framework/spiral_metaphysics/❖ core axioms",
     "Framework/spiral_metaphysics",
     "Framework/beans_metaphysis",
