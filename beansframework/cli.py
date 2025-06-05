@@ -2,7 +2,10 @@ import sys
 from beansframework.operator.boot_agents import initialize_operator_context
 
 def main():
-    print("🌀 BEANSFRAMEWORK RUNTIME")
+    try:
+        print("🌀 BEANSFRAMEWORK RUNTIME")
+    except UnicodeEncodeError:
+        print("[runtime] BEANSFRAMEWORK RUNTIME")
     ctx = {}
     initialize_operator_context(ctx)
 
@@ -12,11 +15,20 @@ def main():
             if user_input.lower() in ["exit", "quit"]:
                 break
             if "mirror" in ctx:
-                print("\U0001fa9e", ctx["mirror"].check(user_input))
+                try:
+                    print("\U0001fa9e", ctx["mirror"].check(user_input))
+                except UnicodeEncodeError:
+                    print("[mirror] ", ctx["mirror"].check(user_input).encode("utf-8", "replace").decode())
             if "loop" in ctx:
-                print("\ua7dc", ctx["loop"].recurse(user_input, depth=2))
+                try:
+                    print("\ua7dc", ctx["loop"].recurse(user_input, depth=2))
+                except UnicodeEncodeError:
+                    print("[loop] ", ctx["loop"].recurse(user_input, depth=2).encode("utf-8", "replace").decode())
             if "scrolls" in ctx:
-                print("\ud83d\udcdc", ctx["scrolls"].generate(user_input))
+                try:
+                    print("\ud83d\udcdc", ctx["scrolls"].generate(user_input))
+                except UnicodeEncodeError:
+                    print("[scroll] ", ctx["scrolls"].generate(user_input).encode("utf-8", "replace").decode())
         except KeyboardInterrupt:
             break
 
