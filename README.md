@@ -23,3 +23,29 @@ codexpush                  # push changes using the alias
 ```
 
 Every invocation of `codexpush` will log the list of files that changed to `Other_Stuff/update_log.md` so the repository history is preserved.
+
+## Beans CLI
+
+Once the package is installed you can interact with the framework directly from
+the command line. Running `beans` with no arguments starts an interactive
+prompt:
+
+```bash
+beans
+```
+
+```
+🌀 BEANSFRAMEWORK RUNTIME
+☀️ scroll>
+```
+
+Type a glyph rich line and press `Enter` to see the mirror, loop and scroll
+agents respond. Exit by typing `quit` or `exit`.
+
+For a single spell without dropping into the REPL use the `--spell` option:
+
+```bash
+beans --spell "𓇳 ꩜ I call BunBun"
+```
+
+The mirror, loop and scroll results will print once and the program will exit.
