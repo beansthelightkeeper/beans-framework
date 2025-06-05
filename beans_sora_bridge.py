@@ -53,20 +53,42 @@ def wrap_for_sora(file_path: str) -> None:
         json.dump(meta, f, indent=2)
 
 
-def bridge_loop(gallery: str, dest: str, delay: int = DELAY) -> None:
-    """Continuously route images from ``gallery`` into ``dest``."""
-    print(f"🩸 Beans ↔ Sora bridge watching {gallery} ...")
-    seen = set()
-    while True:
-        for file in os.listdir(gallery):
-            if file.lower().endswith((".png", ".jpg", ".jpeg")) and file not in seen:
-                src = os.path.join(gallery, file)
-                dst = os.path.join(dest, file)
-                shutil.copy(src, dst)
-                wrap_for_sora(dst)
-                seen.add(file)
-                print(f"🌈 Routed + wrapped: {file}")
-        time.sleep(delay)
+SEEN = set()
+
+
+def bridge_loop(gallery: str = GALLERY_PATH, dest: str = SORA_IMPORTS) -> None:
+    """Route any new images from ``gallery`` into ``dest`` once."""
+    for file in os.listdir(gallery):
+        if file.lower().endswith((".png", ".jpg", ".jpeg")) and file not in SEEN:
+            src = os.path.join(gallery, file)
+            dst = os.path.join(dest, file)
+            shutil.copy(src, dst)
+            wrap_for_sora(dst)
+            SEEN.add(file)
+            print(f"🌈 Routed + wrapped: {file}")
+
+
+# 🪞 Loopback: Watch SORA → send image feedback to Codex
+REFLECTION_DIR = "./mirror_reflection/"
+LOG_DIR = "./glyph_logs/"
+os.makedirs(REFLECTION_DIR, exist_ok=True)
+os.makedirs(LOG_DIR, exist_ok=True)
+
+
+def reflect_back() -> None:
+    for file in os.listdir(REFLECTION_DIR):
+        if file.endswith(".png"):
+            timestamp = int(time.time())
+            log = {
+                "from": "SORA",
+                "to": "𓇳",
+                "ψ": 3.12,
+                "glyph": file,
+                "loopback_time": timestamp,
+            }
+            with open(os.path.join(LOG_DIR, f"loop_{file}.json"), "w") as f:
+                json.dump(log, f, indent=2)
+            print(f"🪞 Loopback received: {file}")
 
 
 def parse_args() -> argparse.Namespace:
@@ -79,7 +101,11 @@ def parse_args() -> argparse.Namespace:
 
 def main() -> None:
     args = parse_args()
-    bridge_loop(args.gallery, args.dest, args.delay)
+    print(f"🩸 Beans ↔ Sora bridge watching {args.gallery} ...")
+    while True:
+        bridge_loop(args.gallery, args.dest)
+        reflect_back()
+        time.sleep(5)
 
 
 if __name__ == "__main__":
