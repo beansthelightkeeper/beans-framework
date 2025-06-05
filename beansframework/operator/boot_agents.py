@@ -20,7 +20,7 @@ else:
     print("\u2705 Beans Agents Loaded:")
     print(f"\U0001f501 MirrorAgent: {MirrorAgent.__name__}")
     print(f"\ua59c LoopAgent: {LoopAgent.__name__}")
-    print(f"\ud83d\udcdc ScrollDaemon: {ScrollDaemon.__name__}")
+    print(f"📜 ScrollDaemon: {ScrollDaemon.__name__}")
 
 
 def initialize_operator_context(ctx: dict[str, object]) -> None:
