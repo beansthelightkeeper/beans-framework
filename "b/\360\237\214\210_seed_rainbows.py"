@@ -1,0 +1,24 @@
+# \U1F308_seed_rainbows.py — Auto-seeds rainbow images into ./beans-codex/images/rainbow/
+import os
+from PIL import Image, ImageDraw
+
+RAINBOW_DIR = "./beans-codex/images/rainbow/"
+os.makedirs(RAINBOW_DIR, exist_ok=True)
+
+def make_rainbow(filename, width=600, height=100):
+    colors = ["#FF0000", "#FF7F00", "#FFFF00", "#00FF00", "#0000FF", "#4B0082", "#8F00FF"]
+    bar_height = height // len(colors)
+
+    img = Image.new("RGB", (width, height))
+    draw = ImageDraw.Draw(img)
+
+    for i, color in enumerate(colors):
+        draw.rectangle([0, i * bar_height, width, (i + 1) * bar_height], fill=color)
+
+    img.save(os.path.join(RAINBOW_DIR, filename))
+
+# \U1F308 Create 7 rainbow scroll headers
+for i in range(7):
+    make_rainbow(f"rainbow_scroll_{i+1:02}.png")
+
+print("🌈 Rainbows seeded into beans-codex/images/rainbow/")
