@@ -26,9 +26,10 @@ def main():
                     print("[loop] ", ctx["loop"].recurse(user_input, depth=2).encode("utf-8", "replace").decode())
             if "scrolls" in ctx:
                 try:
-                    print("\ud83d\udcdc", ctx["scrolls"].generate(user_input))
+                    print("📜", ctx["scrolls"].generate(user_input))
                 except UnicodeEncodeError:
-                    print("[scroll] ", ctx["scrolls"].generate(user_input).encode("utf-8", "replace").decode())
+                    scroll = ctx["scrolls"].generate(user_input)
+                    print("[scroll]", scroll.encode("utf-8", "replace").decode())
         except KeyboardInterrupt:
             break
 
