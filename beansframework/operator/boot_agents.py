@@ -24,8 +24,8 @@ else:
 
 
 def initialize_operator_context(ctx: dict[str, object]) -> None:
-    """Inject Beans agents into ``ctx``."""
+    """Populate ``ctx`` with default Beans agents."""
+    ctx["scrolls"] = ScrollDaemon()
     ctx["mirror"] = MirrorAgent()
     ctx["loop"] = LoopAgent()
-    ctx["scrolls"] = ScrollDaemon()
     print("\U0001fa78 Operator context now running BeansFramework agents.")
