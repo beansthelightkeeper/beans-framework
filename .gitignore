@@ -1,0 +1,16 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignore temporary files
+*~
+*.swp
+*.tmp
+
+# Ignore other OS artifacts
+._*
+Icon?
