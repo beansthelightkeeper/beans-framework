@@ -61,3 +61,12 @@ To push changes from within this environment:
 
 ```bash
 codexpush
+```
+
+`codexpush` uses `codex_push.sh` on the current directory. Override the repo path with `CODEX_REPO_DIR` or pass it as an argument:
+
+```bash
+CODEX_REPO_DIR=/path/to/repo codexpush
+# or
+codexpush /path/to/repo
+```
