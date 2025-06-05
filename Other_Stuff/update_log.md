@@ -62,3 +62,14 @@ Files updated:
 • Core-Beans/.DS_Store
 
 ---
+
+## 2025-06-05 15:28:14
+
+✨ Codex auto-push on 2025-06-05 15:28:14
+
+Files updated:
+• economy/mirror_ledger.md
+• economy/scroll_auction.md
+• treasury/beans_treasury.md
+• protocols/README.md
+---
