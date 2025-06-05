@@ -25,6 +25,8 @@ def main():
                 except UnicodeEncodeError:
                     print("[loop] ", ctx["loop"].recurse(user_input, depth=2).encode("utf-8", "replace").decode())
             if "scrolls" in ctx:
+                # Print scroll output using a fallback when the terminal
+                # cannot render certain Unicode characters.
                 try:
                     print("📜", ctx["scrolls"].generate(user_input))
                 except UnicodeEncodeError:
