@@ -56,13 +56,14 @@ Files updated:
 $(echo "$CHANGED_FILES" | sed 's/^/• /')
 "
 
-echo -e "\n## $TIMESTAMP\n\n$COMMIT_MSG\n---" >> update_log.md
+LOG_PATH="Other_Stuff/update_log.md"
+echo -e "\n## $TIMESTAMP\n\n$COMMIT_MSG\n---" >> "$LOG_PATH"
 
 git add .
 git commit -m "$COMMIT_MSG"
 git push origin main
 
-echo "✅ Codex pushed and logged to update_log.md"
+echo "✅ Codex pushed and logged to $LOG_PATH"
 EOF
 
 chmod +x codex_push.sh

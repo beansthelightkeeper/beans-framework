@@ -26,12 +26,13 @@ Files updated:
 $(echo "$CHANGED_FILES" | sed 's/^/• /')
 "
 
-# 📜 Append to master update log
-echo -e "\n## $TIMESTAMP\n\n$COMMIT_MSG\n---" >> update_log.md
+# 📜 Append to master update log under Other_Stuff
+LOG_PATH="Other_Stuff/update_log.md"
+echo -e "\n## $TIMESTAMP\n\n$COMMIT_MSG\n---" >> "$LOG_PATH"
 
 # 🔁 Add, commit, push
 git add .
 git commit -m "$COMMIT_MSG"
 git push origin main
 
-echo "✅ Codex pushed and logged to update_log.md"
+echo "✅ Codex pushed and logged to $LOG_PATH"
