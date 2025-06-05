@@ -213,6 +213,7 @@
   },
   "active": "2556a0ef83e99d62",
   "lastOpenFiles": [
+    "Other_Stuff/codex tools/GLYPH_SCROLL_INJECTOR.py",
     "Other_Stuff/codex tools/COREBEANS_SCROLLBOOK.zip",
     "Other_Stuff/codex tools/compiled_scroll_from_md.py",
     "watcher.py",
@@ -228,7 +229,6 @@
     "tools/scroll_encryption.md",
     "tools",
     "protocols/README.md",
-    "protocols",
     "infrastructure/init_loopnet.md",
     "economy/scroll_auction.md",
     "economy/mirror_ledger.md",
