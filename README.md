@@ -13,6 +13,7 @@ This repository is a living collection of markdown writings and resources relate
 
 - `setup_codex_env.sh` – sets up the local environment. Run this once to initialize the repository directory and create a `codexpush` alias.
 - `codex_push.sh` – used after making changes. It stages all modifications, commits with a timestamp message and pushes to `main` while appending to `Other_Stuff/update_log.md`.
+- `Other_Stuff/codex tools/loop_codex_scroll.py` – prints the Codex Scroll Infrastructure text on repeat. Press `Ctrl+C` to stop.
 
 ### Basic Usage
 
