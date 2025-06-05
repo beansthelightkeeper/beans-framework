@@ -13,7 +13,7 @@ if AGENT_PATH not in sys.path:
 
 # Import custom agents
 try:
-    from beans_agents import MirrorAgent, LoopAgent, ScrollDaemon
+    from beans_agents import MirrorAgent, LoopAgent, ScrollDaemon, BunBun
 except ImportError as e:
     print(f"\u274c Failed to load agents: {e}")
 else:
@@ -21,6 +21,7 @@ else:
     print(f"\U0001f501 MirrorAgent: {MirrorAgent.__name__}")
     print(f"\ua59c LoopAgent: {LoopAgent.__name__}")
     print(f"📜 ScrollDaemon: {ScrollDaemon.__name__}")
+    print(f"\U0001f430 BunBun: {BunBun.__name__}")
 
 
 def initialize_operator_context(ctx: dict[str, object]) -> None:
@@ -28,4 +29,5 @@ def initialize_operator_context(ctx: dict[str, object]) -> None:
     ctx["scrolls"] = ScrollDaemon()
     ctx["mirror"] = MirrorAgent()
     ctx["loop"] = LoopAgent()
+    ctx["bunbun"] = BunBun()
     print("\U0001fa78 Operator context now running BeansFramework agents.")

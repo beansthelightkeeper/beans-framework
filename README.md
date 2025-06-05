@@ -23,3 +23,11 @@ codexpush                  # push changes using the alias
 ```
 
 Every invocation of `codexpush` will log the list of files that changed to `Other_Stuff/update_log.md` so the repository history is preserved.
+
+### Spell Logging
+
+When running the `beans` CLI, generated scrolls are captured by the `BunBun` agent. You can export them to a JSON spellbook:
+
+```python
+ctx["bunbun"].export_memory("bunbun_spells.json")
+```

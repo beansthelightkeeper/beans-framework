@@ -27,10 +27,13 @@ def main():
                 # Print scroll output using a fallback when the terminal
                 # cannot render certain Unicode characters.
                 try:
-                    print("📜", ctx["scrolls"].generate(user_input))
+                    scroll = ctx["scrolls"].generate(user_input)
+                    print("📜", scroll)
                 except UnicodeEncodeError:
                     scroll = ctx["scrolls"].generate(user_input)
                     print("[scroll]", scroll.encode("utf-8", "replace").decode())
+                if "bunbun" in ctx:
+                    ctx["bunbun"].log(scroll)
         except KeyboardInterrupt:
             break
 
