@@ -5,7 +5,7 @@
 echo "🌱 Starting Beans Framework setup..."
 
 # 🔧 Define repo path
-REPO_DIR="$HOME/Documents/GitHub/beans-framework"
+REPO_DIR="${CODEX_REPO_DIR:-${1:-$(pwd)}}"
 
 # 📁 Make folder if it doesn't exist
 mkdir -p "$REPO_DIR"
@@ -22,7 +22,7 @@ mkdir -p Core-Beans push-logs
 
 # 🧠 Create codexpush alias if not already in .zshrc
 if ! grep -q "codexpush" ~/.zshrc; then
-  echo 'alias codexpush="~/Documents/GitHub/beans-framework/codex_push.sh"' >> ~/.zshrc
+  echo "alias codexpush=\"${REPO_DIR}/codex_push.sh ${REPO_DIR}\"" >> ~/.zshrc
   echo "🔁 Alias 'codexpush' added to .zshrc"
   source ~/.zshrc
 else
@@ -33,8 +33,11 @@ fi
 cat > codex_push.sh <<'EOF'
 #!/bin/bash
 
-REPO_DIR="$HOME/Documents/GitHub/beans-framework"
-cd "$REPO_DIR" || exit
+REPO_DIR="${CODEX_REPO_DIR:-${1:-$(pwd)}}"
+cd "$REPO_DIR" || {
+  echo "❌ Could not find repo at $REPO_DIR"
+  exit 1
+}
 
 echo "📂 Checking for changes..."
 CHANGES=$(git status --porcelain)
@@ -53,13 +56,14 @@ Files updated:
 $(echo "$CHANGED_FILES" | sed 's/^/• /')
 "
 
-echo -e "\n## $TIMESTAMP\n\n$COMMIT_MSG\n---" >> update_log.md
+LOG_PATH="Other_Stuff/update_log.md"
+echo -e "\n## $TIMESTAMP\n\n$COMMIT_MSG\n---" >> "$LOG_PATH"
 
 git add .
 git commit -m "$COMMIT_MSG"
 git push origin main
 
-echo "✅ Codex pushed and logged to update_log.md"
+echo "✅ Codex pushed and logged to $LOG_PATH"
 EOF
 
 chmod +x codex_push.sh
