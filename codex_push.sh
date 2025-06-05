@@ -2,7 +2,7 @@
 
 # 🌀 BEANS FRAMEWORK PUSH + MASTER LOGGING SCRIPT
 
-REPO_DIR="$HOME/Documents/GitHub/beans-framework"
+REPO_DIR="${CODEX_REPO_DIR:-${1:-$(pwd)}}"
 cd "$REPO_DIR" || {
   echo "❌ Could not find repo at $REPO_DIR"
   exit 1
