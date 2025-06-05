@@ -14,3 +14,6 @@ Desktop.ini
 # Ignore other OS artifacts
 ._*
 Icon?
+
+# Ignore generated spell files
+spells/

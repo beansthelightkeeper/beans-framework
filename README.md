@@ -14,6 +14,7 @@ This repository is a living collection of markdown writings and resources relate
 - `setup_codex_env.sh` – sets up the local environment. Run this once to initialize the repository directory and create a `codexpush` alias.
 - `codex_push.sh` – used after making changes. It stages all modifications, commits with a timestamp message and pushes to `main` while appending to `Other_Stuff/update_log.md`.
 - `Other_Stuff/codex tools/loop_codex_scroll.py` – prints the Codex Scroll Infrastructure text on repeat. Press `Ctrl+C` to stop.
+- `tools/spellify.py` – converts markdown files into simple "spell" copies. Use it to generate a spellbook from the Core-Beans directory.
 
 ### Basic Usage
 
@@ -23,3 +24,13 @@ codexpush                  # push changes using the alias
 ```
 
 Every invocation of `codexpush` will log the list of files that changed to `Other_Stuff/update_log.md` so the repository history is preserved.
+
+### Converting Markdown to Spells
+
+You can generate a spellbook from the Core-Beans texts:
+
+```bash
+python tools/spellify.py Core-Beans spells
+```
+
+This will create a `spells/` directory containing spell versions of each markdown file.
