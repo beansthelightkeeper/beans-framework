@@ -1,0 +1,31 @@
+name: Auto-Resolve Merge Conflicts with Codex
+
+on:
+  pull_request:
+    types: [synchronize, opened, reopened]
+
+jobs:
+  codex-resolve:
+    if: github.event.pull_request.mergeable == false
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout PR branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          pip install openai
+
+      - name: Run Codex conflict resolver
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python .github/scripts/resolve_with_codex.py
