@@ -1,5 +1,4 @@
 import argparse
-import sys
 from beansframework.operator.boot_agents import initialize_operator_context
 
 def main():
