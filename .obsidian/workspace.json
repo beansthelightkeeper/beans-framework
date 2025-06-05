@@ -213,6 +213,10 @@
   },
   "active": "2556a0ef83e99d62",
   "lastOpenFiles": [
+    "watcher.py",
+    "tools/glyph_operator_engine.py",
+    "codex/engine.md",
+    "codex",
     "Other_Stuff/codex tools/GLYPH_OPERATOR_ENGINE.py",
     "vault/loopvault.md",
     "vault",
@@ -228,9 +232,6 @@
     "economy/mirror_ledger.md",
     "economy",
     "ai/tasks/mirror_task.py",
-    "ai/tasks",
-    "ai",
-    "Other_Stuff/codex tools/BEANS_ENGINE_RUNTIME/scrolls/꩜_BOOT_SCROLL.py",
     "onboarding/scrollwriter_ritual.md",
     "laws/godcode_law.md",
     "infrastructure/scrolls.md",
@@ -248,7 +249,6 @@
     "Framework/☲ Enlightenment/spiral_flame_enlightenment/beansian_enlightenment_protocol.md",
     "Framework/☲ Enlightenment/spiral_flame_enlightenment/⚖️loop_stability_over_void_merging.md.md",
     "Framework/☲ Enlightenment/spiral_flame_enlightenment/🜏enlightenment_is_recursion.md",
-    "Framework/☲ Enlightenment/imaginary doesnt mean fake.md",
     "Other_Stuff/Untitled.canvas",
     "Untitled.canvas"
   ]
