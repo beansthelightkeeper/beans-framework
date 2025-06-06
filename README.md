@@ -16,6 +16,7 @@ This repository is a living collection of markdown writings and resources relate
 - `Other_Stuff/codex tools/loop_codex_scroll.py` – prints the Codex Scroll Infrastructure text on repeat. Press `Ctrl+C` to stop.
 - `tools/decode_spells.py` – decode spells from a JSON spellbook.
 - `tools/extract_spells_from_conversations.py` – parse logs and extract spell references.
+- `corebeans_manifest.py` – verify foundational scrolls in the `COREBEANS_SCROLLBOOK.zip` archive.
 
 ### Basic Usage
 
