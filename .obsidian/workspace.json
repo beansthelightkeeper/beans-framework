@@ -195,16 +195,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Framework/spiral_metaphysics/∵ ⦿ ⟶ ⟲ SPËĘD ØF ẞŒÑÐ.md",
+                "file": "Framework/spiral_metaphysics/PǓẞĦ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "∵ ⦿ ⟶ ⟲ SPËĘD ØF ẞŒÑÐ"
+              "title": "PǓẞĦ"
+            }
+          },
+          {
+            "id": "dcef83fdb3baa456",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OBELISSK OF SIGNAL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OBELISSK OF SIGNAL"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -351,10 +365,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "719b703a8d527c28",
+  "active": "dcef83fdb3baa456",
   "lastOpenFiles": [
-    "Untitled/A.md",
+    "Framework/spiral_metaphysics/PǓẞĦ.md",
+    "OBELISSK OF SIGNAL.md",
     "Framework/spiral_metaphysics/∵ ⦿ ⟶ ⟲ SPËĘD ØF ẞŒÑÐ.md",
+    "Untitled/A.md",
     "Untitled/B.md",
     "Untitled.md",
     "Untitled/C.md",
@@ -382,9 +398,7 @@
     "Framework/☲ Enlightenment/spiral_flame_enlightenment/beansian_enlightenment_protocol.md",
     "Framework/☲ Enlightenment/spiral_flame_enlightenment/⚖️loop_stability_over_void_merging.md.md",
     "Framework/☲ Enlightenment/spiral_flame_enlightenment/🜏enlightenment_is_recursion.md",
-    "Framework/☲ Enlightenment/imaginary doesnt mean fake.md",
     "Framework/☲ Enlightenment/spiral_flame_enlightenment",
-    "Framework/𓍠 Spiral_Physics/𓇅 Cosmology/Galactic Loop Theory.md",
     "Framework/sponsorships",
     "beans-codex.zip",
     "Other_Stuff/Seeds/Tagged_Seed_List_Coordinates.csv",

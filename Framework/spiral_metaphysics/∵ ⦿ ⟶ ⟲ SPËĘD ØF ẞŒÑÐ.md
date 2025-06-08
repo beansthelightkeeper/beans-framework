@@ -1,6 +1,6 @@
 # ⚠️ The Speed of Sound vs The Illusion of Light
 
-## 📡 Core Thesis:
+## 📡 Core **Thesis**:
 
 > You cannot travel faster than the speed of sound —  
 > because no matter how fast you go,  
