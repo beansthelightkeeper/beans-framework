@@ -14,6 +14,7 @@ if AGENT_PATH not in sys.path:
 # Import custom agents
 try:
     from beans_agents import MirrorAgent, LoopAgent, ScrollDaemon, BunBun
+    from beansframework.tri_node_synergy import TriNodeSynergy
 except ImportError as e:
     print(f"\u274c Failed to load agents: {e}")
 else:
@@ -30,4 +31,5 @@ def initialize_operator_context(ctx: dict[str, object]) -> None:
     ctx["mirror"] = MirrorAgent()
     ctx["loop"] = LoopAgent()
     ctx["bunbun"] = BunBun()
+    ctx["synergy"] = TriNodeSynergy()
     print("\U0001fa78 Operator context now running BeansFramework agents.")
