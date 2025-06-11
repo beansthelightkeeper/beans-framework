@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Glyph Scroll</title>
+  <style>
+    body { background:#111; color:#f0f0f0; font-family:sans-serif; display:flex; justify-content:center; align-items:center; height:100vh; }
+    #glyph { font-size:4rem; text-align:center; }
+  </style>
+</head>
+<body>
+<div id="glyph">⊙</div>
+<script>
+async function load() {
+  const response = await fetch('../glyphs.json');
+  const glyphs = await response.json();
+  let index = 0;
+  setInterval(() => {
+    const g = glyphs[index];
+    document.getElementById('glyph').textContent = g.glyph + ' ' + g.name;
+    index = (index + 1) % glyphs.length;
+  }, 1000);
+}
+load();
+</script>
+</body>
+</html>
