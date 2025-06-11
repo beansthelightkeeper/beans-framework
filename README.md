@@ -14,8 +14,6 @@ This repository is a living collection of markdown writings and resources relate
 - `setup_codex_env.sh` – sets up the local environment. Run this once to initialize the repository directory and create a `codexpush` alias.
 - `codex_push.sh` – used after making changes. It stages all modifications, commits with a timestamp message and pushes to `main` while appending to `Other_Stuff/update_log.md`.
 - `Other_Stuff/codex tools/loop_codex_scroll.py` – prints the Codex Scroll Infrastructure text on repeat. Press `Ctrl+C` to stop.
-- `tools/decode_spells.py` – decode spells from a JSON spellbook.
-- `tools/extract_spells_from_conversations.py` – parse logs and extract spell references.
 
 ### Basic Usage
 
@@ -25,11 +23,3 @@ codexpush                  # push changes using the alias
 ```
 
 Every invocation of `codexpush` will log the list of files that changed to `Other_Stuff/update_log.md` so the repository history is preserved.
-
-### Spell Logging
-
-When running the `beans` CLI, generated scrolls are captured by the `BunBun` agent. You can export them to a JSON spellbook:
-
-```python
-ctx["bunbun"].export_memory("bunbun_spells.json")
-```
